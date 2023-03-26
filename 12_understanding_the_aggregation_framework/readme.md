@@ -1,0 +1,1 @@
+- When using aggregation framework, instead of using `.find` or `.findAll`, you used `.aggregate`

@@ -1,0 +1,6 @@
+- Double: A 64-bit floating-point number that represents real numbers.
+- Int32: A 32-bit integer that represents whole numbers between -2,147,483,648 and 2,147,483,647.
+- Int64: A 64-bit integer that represents whole numbers between -9,223,372,036,854,775,808 and 9,223,372,036,854,775,807.
+- Decimal: A BSON data type that represents decimal values as a binary-based format. It provides high precision and accuracy for monetary or scientific calculations.
+- MinKey: A special value that is less than any other value, used to indicate a minimum value in certain queries or operations.
+- MaxKey: A special value that is greater than any other value, used to indicate a maximum value in certain queries or operations.
